@@ -27,3 +27,7 @@ This repo contains starter files and the finished project files for the project 
 ### background-clip
 
 ### outline
+
+### Rotating Cards
+
+(perspective, backface-visibility, background-blend-mode, box-decoration-break)
