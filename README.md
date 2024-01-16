@@ -7,3 +7,23 @@ This repo contains starter files and the finished project files for the project 
 ## Features and technologies used in this project
 
 ### clip-path
+
+### npm
+
+### SASS (SCSS)
+
+"$variables
+@mixins
+@include
+@extend
+@function"
+
+### floats
+
+### BEM architecture
+
+### the 7-1 pattern
+
+### background-clip
+
+### outline
