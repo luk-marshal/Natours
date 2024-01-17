@@ -31,3 +31,7 @@ This repo contains starter files and the finished project files for the project 
 ### Rotating Cards
 
 (perspective, backface-visibility, background-blend-mode, box-decoration-break)
+
+### User Stories
+
+(shape-outside, float, filter, background video, object-fit)
