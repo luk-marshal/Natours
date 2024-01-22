@@ -35,3 +35,7 @@ This repo contains starter files and the finished project files for the project 
 ### User Stories
 
 (shape-outside, float, filter, background video, object-fit)
+
+### Booking section
+
+(form styling, ::input-placeholder, :focus, :invalid, :placeholder-shown, :checked, custom radio buttons)
