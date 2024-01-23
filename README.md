@@ -39,3 +39,7 @@ This repo contains starter files and the finished project files for the project 
 ### Booking section
 
 (form styling, ::input-placeholder, :focus, :invalid, :placeholder-shown, :checked, custom radio buttons)
+
+### Navigation
+
+(checkbox hack, cubic bezier curves, animate solid-color gradients, transform-orgin)
