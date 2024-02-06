@@ -43,3 +43,15 @@ This repo contains starter files and the finished project files for the project 
 ### Navigation
 
 (checkbox hack, cubic bezier curves, animate solid-color gradients, transform-orgin)
+
+### Responsive images
+
+(srcset, @media (min-resolution: 0dpi), @media (min-width: 0dpi), @media (-webkit-min-device-pixel-ratio: 2), srcset and sizes, )
+
+### Support and related topics
+
+(@media only screen and, only screen and (hover: none), @supports, ::selection, )
+
+### NPM & Build tools
+
+(compile, concat, prefix, compress, npm-run-all)
